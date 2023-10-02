@@ -225,9 +225,9 @@ log-level: warning
 mode: rule
 proxies:
   - name: S1
-    password: 112qwer112
+    password: 112
     port: 443
     server: S1.go2https.com
     type: http
-    username: xuefengming
+    username: x
     tls: true
